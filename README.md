@@ -17,6 +17,6 @@ melhor experiência ao usuário.<p/>
 
 <br>
 
-### 🧠 Principais Skils:
+### 🧠 Principais Skills:
 
 <p>Atuo no desenvolvimento de aplicativos móveis com Flutter, focando na criação de interfaces responsivas e na integração de APIs e serviços web. Tenho experiência no uso do Firebase para autenticação e armazenamento de dados, além de dominar o gerenciamento de estado por meio de MobX, GetX ou Bloc. Também utilizo Get, Flutter Modular ou Provider para injeção de dependência e sou familiarizado com a realização de testes em Flutter.</p>
